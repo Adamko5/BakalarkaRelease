@@ -1,0 +1,8 @@
+version: 1.0.2
+files:
+  - url: CopAS-Setup-1.0.2.exe
+    sha512: 5fc86drkgDnF5pYsE91NTA7yQs8NYwXNOlPr+QdMIK2ZZ9ranCm5ARYYoIUIppB7Sf4cb3xgm1PL3pC4AZj1Bw==
+    size: 74703238
+path: CopAS-Setup-1.0.2.exe
+sha512: 5fc86drkgDnF5pYsE91NTA7yQs8NYwXNOlPr+QdMIK2ZZ9ranCm5ARYYoIUIppB7Sf4cb3xgm1PL3pC4AZj1Bw==
+releaseDate: '2024-03-09T13:25:38.533Z'
